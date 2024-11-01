@@ -15,16 +15,19 @@ Vill du kontakta styrelsen gör du det enklast genom att maila till:
 
 
 Ordförande
-Tomas Kidane
+- Tomas Eyob Kidane
 
 Vice Ordförande
-Emil Mattson
+- Karl Emil Mattsson
 
-Ledamot
-Paschoal Naldoni
-Kent Pettersson
-Sara Fathi Ståhl
+Ledamöten
+- Carl-Olov Andreaz Zanteré
+- Eva Maria Karlsson Thuresson
+- Markus Erik Arne Palm
 
-Suppleant
-Tara Azimi
-Axel Bauer
+Suppleanter
+- Alice Maria Örnö Ax	
+- John Viktor Emilsson
+
+Revisor
+- HQV Stockholm AB
