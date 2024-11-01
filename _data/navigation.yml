@@ -1,0 +1,24 @@
+# main links
+main:
+   - title: "Inlägg"
+     url: /inlagg/
+   - title: "Om Föreningen"
+     url: /foreningen/
+   - title: "För Boende"
+     url: /boende/
+   - title: "Styrelsen"
+     url: /styrelsen/
+   - title: "SBC"
+     url: https://hemma.sbc.se/
+
+boende:
+   - title: "Information för Boende"
+     url: /boende/
+   - title: "Renovering"
+     url: /boende/renovering/
+   - title: "Andrahandsuthyrning"
+     url: /boende/uthyrning/
+   - title: "Parkering"
+     url: /boende/parkering/
+   - title: "Bredband och TV"
+     url: /boende/bredband/
