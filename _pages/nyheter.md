@@ -1,6 +1,6 @@
 ---
-title: Inlägg
-permalink: /inlagg/
+title: Nyheter
+permalink: /nyheter/
 layout: categories
 author_profile: false
 header:

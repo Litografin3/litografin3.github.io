@@ -4,6 +4,8 @@ permalink: /
 header:
   image: /assets/images/banner.jpg
 sidebar:
+  - title: "Kort om föreningen"
+  - title: ""
   - title: "Adress"
     text: "Grafikvägen 17, 121 43 Johanneshov"
   - title: "Fastigheten"

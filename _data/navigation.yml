@@ -2,8 +2,8 @@
 main:
    - title: "SBC Hemma"
      url: https://hemma.sbc.se/
-   - title: "Inlägg"
-     url: /inlagg/
+   - title: "Nyheter"
+     url: /nyheter/
    - title: "Om Föreningen"
      url: /foreningen/
    - title: "För Boende"

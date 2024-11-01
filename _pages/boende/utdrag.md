@@ -8,3 +8,5 @@ header:
 sidebar:
   nav: boende
 ---
+
+För att beställa ett utdrag från lägenhetsregistret, vänligen skapa ett ärende i kundportalen SBC Hemma eller ring SBCs kundtjänst på telefonnummer 077-172 27 22.
