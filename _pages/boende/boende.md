@@ -11,4 +11,6 @@ sidebar:
 
 Här hittar du information om saker som rör boende i BRF Litografin 3.
 
-Om det saknas information eller har du en annan fråga går det bra att fråga styrelsen. Kontaktuppgifter till styrelsen finns under fliken <a href ="/styrelsen/">Styrelsen</a> samt i entréerna till huset.
+Information om din specifika lägenhet och avgiftsavier går att hitta genom att logga in hos <a href="https://hemma.sbc.se/" >SBC Hemma</a>
+
+Om det saknas information eller om du har en annan fråga går det bra att fråga styrelsen. Kontaktuppgifter till styrelsen finns under fliken <a href ="/styrelsen/">Styrelsen</a> samt i entréerna till huset.

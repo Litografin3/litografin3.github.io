@@ -1,5 +1,7 @@
 # main links
 main:
+   - title: "SBC Hemma"
+     url: https://hemma.sbc.se/
    - title: "Inlägg"
      url: /inlagg/
    - title: "Om Föreningen"
@@ -8,17 +10,31 @@ main:
      url: /boende/
    - title: "Styrelsen"
      url: /styrelsen/
-   - title: "SBC"
-     url: https://hemma.sbc.se/
 
 boende:
-   - title: "Information för Boende"
+   - title: "Startsida"
      url: /boende/
-   - title: "Renovering"
-     url: /boende/renovering/
-   - title: "Andrahandsuthyrning"
-     url: /boende/uthyrning/
+   - title: "Nyinflyttad"
+     url: /boende/nyinflyttad/
    - title: "Parkering"
      url: /boende/parkering/
    - title: "Bredband och TV"
      url: /boende/bredband/
+   - title: "Tvättstuga"
+     url: /boende/tvattstuga/
+   - title: "Renovering"
+     url: /boende/renovering/
+   - title: "Andrahandsuthyrning"
+     url: /boende/uthyrning/
+   - title: "Utdrag ur lägenhetsregistret"
+     url: /boende/utdrag/
+
+foreningen:
+   - title: "Startsida"
+     url: /foreningen/
+   - title: "Information om Fastigheten"
+     url: /foreningen/fastigheten/
+   - title: "Årsredovisningar"
+     url: /foreningen/arsredovisningar/
+   - title: "Stadgar"
+     url: /foreningen/stadgar/
