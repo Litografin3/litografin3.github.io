@@ -1,6 +1,6 @@
 ---
 title: Tvättstuga
-permalink: /boende/tvattstuga
+permalink: /boende/tvattstuga/
 layout: single
 author_profile: false
 header:

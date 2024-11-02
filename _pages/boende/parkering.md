@@ -1,6 +1,6 @@
 ---
 title: Parkering
-permalink: /boende/parkering
+permalink: /boende/parkering/
 layout: single
 author_profile: false
 header:

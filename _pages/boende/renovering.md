@@ -1,6 +1,6 @@
 ---
 title: Renovering
-permalink: /boende/renovering
+permalink: /boende/renovering/
 layout: single
 author_profile: false
 header:

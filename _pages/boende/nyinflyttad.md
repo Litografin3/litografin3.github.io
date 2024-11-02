@@ -1,6 +1,6 @@
 ---
 title: Nyinflyttad
-permalink: /boende/nyinflyttad
+permalink: /boende/nyinflyttad/
 layout: single
 author_profile: false
 header:

@@ -1,6 +1,6 @@
 ---
 title: Utdrag ur Lägenhetsregistret
-permalink: /boende/utdrag
+permalink: /boende/utdrag/
 layout: single
 author_profile: false
 header:

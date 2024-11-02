@@ -2,7 +2,7 @@
 layout: posts
 title:  "Hemsida för Föreningen"
 header:
-  overlay_image: /assets/images/banner.jpg
+  image: /assets/images/banner.jpg
 categories: Inlägg
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Andrahandsuthyrning
-permalink: /boende/uthyrning
+permalink: /boende/uthyrning/
 layout: single
 author_profile: false
 header:
