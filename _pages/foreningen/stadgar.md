@@ -6,3 +6,5 @@ header:
 sidebar:
   nav: foreningen
 ---
+
+- [Ladda ner Stadgar]({{ site.url }}/assets/documents/stadgar.pdf)

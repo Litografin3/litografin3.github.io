@@ -1,11 +1,11 @@
 ---
 layout: posts
-title:  "Hemsida för Föreningen"
+title:  "Föreningen får en hemsida"
 header:
   image: /assets/images/banner.jpg
-categories: Inlägg
+categories: Nyheter 
 ---
 
-# För att förenkla kommunikationen mellan styrelsen och de som bor i huset kommer information regelbundet läggas ut här
+För att underlätta att sprida information för all som bor i huset kommer styrelsen publicera information på denna hemsida
 
-För att förenkla kommunikationen mellan styrelsen och de som bor i huset kommer information regelbundet läggas ut här
+![image tooltip here](/assets/images/2024-11-01-hemsida-for-foreningen.png)

@@ -6,3 +6,13 @@ header:
 sidebar:
   nav: foreningen
 ---
+
+- [Ladda ner årsredovisning 2023]({{ site.url }}/assets/documents/arsredovisningar/arsredovisning-2023.pdf)
+
+- [Ladda ner årsredovisning 2022]({{ site.url }}/assets/documents/arsredovisningar/arsredovisning-2022.pdf)
+
+- [Ladda ner årsredovisning 2021]({{ site.url }}/assets/documents/arsredovisningar/arsredovisning-2021.pdf)
+
+- [Ladda ner årsredovisning 2020]({{ site.url }}/assets/documents/arsredovisningar/arsredovisning-2020.pdf)
+
+- [Ladda ner årsredovisning 2019]({{ site.url }}/assets/documents/arsredovisningar/arsredovisning-2019.pdf)

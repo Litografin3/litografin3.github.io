@@ -12,7 +12,7 @@ main:
      url: /styrelsen/
 
 boende:
-   - title: "Startsida"
+   - title: "För Boende"
      url: /boende/
    - title: "Nyinflyttad"
      url: /boende/nyinflyttad/
@@ -30,7 +30,7 @@ boende:
      url: /boende/utdrag/
 
 foreningen:
-   - title: "Startsida"
+   - title: "Om Föreningen"
      url: /foreningen/
    - title: "Information om Fastigheten"
      url: /foreningen/fastigheten/

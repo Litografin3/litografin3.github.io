@@ -1,8 +1,11 @@
 ---
 title: "Välkommen till BRF Litografin 3"
+layout: splash
 permalink: /
 header:
-  image: /assets/images/banner.jpg
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/banner.jpg
 sidebar:
   - title: "Kort om föreningen"
   - title: ""
@@ -14,3 +17,11 @@ sidebar:
 ---
 
 Här hittar du information om BRF Litofrafin3 i Johanneshov.
+
+
+<h1>Nyheter</h1>
+<div class="grid__wrapper">
+  {% for post in site.posts limit:3 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
