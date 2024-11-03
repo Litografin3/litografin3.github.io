@@ -2,9 +2,18 @@
 layout: archive
 ---
 
+
+<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+  {%- assign date_format = site.minima.date_format | default: "%-d %b, %Y" -%}
+  Publicerad {{ page.date | date: date_format }}
+  {%- if page.updated_date -%}
+  &nbsp// Uppdaterad {{ page.updated_date | date: date_format }}
+  {%- endif -%}
+</time>
+
 {{ content }}
 
-<!--<ul class="taxonomy__index">
+<ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
     <li>
@@ -27,4 +36,5 @@ layout: archive
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
-{% endfor %}-->
+{% endfor %}
+

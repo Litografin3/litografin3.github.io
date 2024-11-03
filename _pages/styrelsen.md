@@ -4,7 +4,9 @@ permalink: /styrelsen/
 layout: single
 author_profile: false
 header:
-  image: /assets/images/banner.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
+  overlay_image: /assets/images/banner.jpg
 ---
 
 Styrelsen i BRF Litografin 3 utses efter förslag från valberedningen vid föreningens ordinarie årsstämma. Styrelsemöten sker i regel en gång i månaden.
