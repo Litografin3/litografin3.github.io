@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"I am an **amazing** person."
-  location         : #"Somewhere"
-  email            :
+  name             : "Styrelsen"
+  avatar           : "/assets/images/group.png"
+  bio              : "Styrelsen för BRF Litografin3"
+  location         : "Grafikvägen 17, 121 43 Johanneshov"
+  email            : "styrelsen@litografin3.se"
   links:
     #- label: "Email"
     #  icon: "fas fa-fw fa-envelope-square"

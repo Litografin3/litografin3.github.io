@@ -6,7 +6,7 @@ header:
   image: /assets/images/banner.jpg
 ---
 
-# Här hittar du information om BRF Litografin 3 i Johanneshov.
+# Här hittar du information om Bostadsrättsföreningen Litografin 3 i Johanneshov.
 
 
 ## Nyheter
