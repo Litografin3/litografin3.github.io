@@ -22,6 +22,8 @@ boende:
      url: /boende/bredband/
    - title: "Tvättstuga"
      url: /boende/tvattstuga/
+   - title: "Avfall och Återvinning"
+     url: /boende/avfall/
    - title: "Renovering"
      url: /boende/renovering/
    - title: "Andrahandsuthyrning"
