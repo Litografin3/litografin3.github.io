@@ -16,6 +16,8 @@ boende:
      url: /boende/
    - title: "Nyinflyttad"
      url: /boende/nyinflyttad/
+   - title: "Engagera dig i Styrelsen"
+     url: /boende/engagemang/
    - title: "Årsstämma"
      url: /boende/arsstamma/
    - title: "Städdag"
