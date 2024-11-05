@@ -8,3 +8,10 @@ header:
 sidebar:
   nav: foreningen
 ---
+
+
+
+Föreningens addresser är:
+- Grafikvägen 15, 121 43 Johanneshov
+- Grafikvägen 17, 121 43 Johanneshov
+- Grafikvägen 17A, 121 43 Johanneshov
