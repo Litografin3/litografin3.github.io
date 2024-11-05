@@ -16,6 +16,10 @@ boende:
      url: /boende/
    - title: "Nyinflyttad"
      url: /boende/nyinflyttad/
+   - title: "Årsstämma"
+     url: /boende/arsstamma/
+   - title: "Städdag"
+     url: /boende/staddag/
    - title: "Parkering"
      url: /boende/parkering/
    - title: "Bredband och TV"
