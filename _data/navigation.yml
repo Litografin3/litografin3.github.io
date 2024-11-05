@@ -44,3 +44,5 @@ foreningen:
      url: /foreningen/arsredovisningar/
    - title: "Stadgar"
      url: /foreningen/stadgar/
+   - title: "Mäklarinformation"
+     url: /foreningen/maklarinformation/
