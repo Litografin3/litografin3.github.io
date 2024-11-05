@@ -810,7 +810,7 @@ sv: &DEFAULT_SV
   pagination_next            : "Nästa"
   breadcrumb_home_label      : "Hem"
   breadcrumb_separator       : "/"
-  menu_label                 : "Växla menyläge"
+  menu_label                 : "Meny"
   search_label               : "Växla sökläge"
   toc_label                  : "På denna sida"
   ext_link_label             : "Direkt länk"
