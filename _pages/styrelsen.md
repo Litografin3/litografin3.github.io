@@ -14,6 +14,7 @@ Styrelsen i BRF Litografin 3 utses efter förslag från valberedningen vid före
 Vill du kontakta styrelsen gör du det enklast genom att maila till:
 <a href="mailto:styrelsen@litografin3.se">styrelsen@litografin3.se</a>
 
+Kontaktuppgifter med telefonnummer finns i entréerna till huset.
 
 
 Ordförande
